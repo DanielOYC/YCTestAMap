@@ -1,0 +1,18 @@
+PODS:
+  - YCTestAMap (0.1.0):
+    - YCTestAMap/YCTestLocationManager (= 0.1.0)
+  - YCTestAMap/YCTestLocationManager (0.1.0)
+
+DEPENDENCIES:
+  - YCTestAMap (from `../`)
+
+EXTERNAL SOURCES:
+  YCTestAMap:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YCTestAMap: 25c6d30c0ad895300c506cc44adcac16c0d62a0a
+
+PODFILE CHECKSUM: 017e68e61f3021407764d40cb07581952e0931f8
+
+COCOAPODS: 1.6.1

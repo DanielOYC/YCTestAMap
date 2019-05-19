@@ -1,0 +1,6 @@
+framework module YCTestAMap {
+  umbrella header "YCTestAMap-umbrella.h"
+
+  export *
+  module * { export * }
+}
